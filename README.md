@@ -11,7 +11,7 @@ The behaviors of these methods are the same.  Each of these methods looks throug
 We'll be using the search algorithms that we wrote in the *[algorithm-drill-linear-search-challenge][]* and the *[algorithm-drill-binary-search-challenge][]*.  Copy each of these methods into the appropriate file.
 
 
-### Release 1: Benchmark the Search Algorithms
+### Release 0: Benchmark the Search Algorithms
 We're going to use Ruby's [`Benchmark`][] module to chart the performance of our linear search method, our binary search method, and the `Array#index` method when searching through sorted arrays of different sizes (see [chart mockup][]).
 
 ```ruby
