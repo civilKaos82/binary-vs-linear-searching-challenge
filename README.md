@@ -40,5 +40,5 @@ We now have some data that showcase the performance of these different search al
 
 [algorithm-drill-linear-search-challenge]: ../../../algorithm-drill-linear-search-challenge
 [algorithm-drill-binary-search-challenge]: ../../../algorithm-drill-binary-search-challenge
-[`Benchmark`]: http://ruby-doc.org/stdlib-1.9.3/libdoc/benchmark/rdoc/Benchmark.html
+[`Benchmark`]: http://ruby-doc.org/stdlib-2.2.0/libdoc/benchmark/rdoc/Benchmark.html
 [chart mockup]: readme-assets/search-algorithm-chart.png
